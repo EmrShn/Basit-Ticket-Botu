@@ -34,4 +34,4 @@ May release my updated one in furture...
 
 
 I have also made a new Modmail bot which does not require a database!
-Just visit this respiratory: https://GitHub.com/mystik01/ModMail
+Just visit this respiratory: https://github.com/KeystoneTEST/Keystone-Ticket-Bot
